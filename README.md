@@ -3,7 +3,11 @@ This is a Wikipedia Time Series Forecasting Deep Learning Solution for the Kaggl
 
 Kaggle Competition - https://www.kaggle.com/c/web-traffic-time-series-forecasting/overview
 
-I have used different deep learning models as well as Arima and the best performed model was LSTM.
+Authors :  
+-> Khushbu Paun, 
+-> Deepak Kothari
+
+We have used different deep learning models as well as Arima and the best performed model was LSTM.
 
 Models -
 1 - LSTM
